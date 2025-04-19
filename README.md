@@ -40,7 +40,8 @@ The LCD is connected using the 6-pin setup of the `LiquidCrystal` library:
 
 ## 📸 Circuit Diagram
 
-![LCD Circuit Diagram](Arduino_LCD_bb.jpg)
+![Arduino LCD_bb](https://github.com/user-attachments/assets/9f46ce3b-3064-43b8-a270-5ec3479f3142)
+
 
 ## 🧪 Getting Started
 
@@ -50,7 +51,4 @@ The LCD is connected using the 6-pin setup of the `LiquidCrystal` library:
 4. Open the Serial Monitor (9600 baud).
 5. Try sending `A` and `B` to control the contrast.
 
-## 📝 Author
-
-Made with ❤️ by [Your Name Here]
 
